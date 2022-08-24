@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\WeatherService\\WeatherService\\WeatherService.csproj",
+      "projectUniqueName": "D:\\Fork\\ASPNETCoreMicroservices\\WeatherService\\WeatherService\\WeatherService.csproj",
       "projectName": "WeatherService",
-      "projectPath": "D:\\GeekBrains\\WeatherService\\WeatherService\\WeatherService.csproj",
+      "projectPath": "D:\\Fork\\ASPNETCoreMicroservices\\WeatherService\\WeatherService\\WeatherService.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\WeatherService\\WeatherService\\obj\\",
+      "outputPath": "D:\\Fork\\ASPNETCoreMicroservices\\WeatherService\\WeatherService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

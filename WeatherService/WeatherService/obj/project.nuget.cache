@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pW0JTMIp+cuMLjxIwPwsRelTfBZGyvA+NlULPzyhEsGrHpUQed6nCjvOfy/DidgLHN4nnIMbcyj7j0vnzsXYOQ==",
+  "dgSpecHash": "E/o8h7mS4laR03mzks7N76YZZFZK93r5sG3enLuD7koN5hS2yoigSKKlIWbrJLEIkcj1jclhH2HrEyYNWkBlkA==",
   "success": true,
-  "projectFilePath": "D:\\GeekBrains\\WeatherService\\WeatherService\\WeatherService.csproj",
+  "projectFilePath": "D:\\Fork\\ASPNETCoreMicroservices\\WeatherService\\WeatherService\\WeatherService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
